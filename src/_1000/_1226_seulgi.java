@@ -2,7 +2,7 @@ package _1000;
 
 import java.util.Scanner;
 
-public class _1227_seulgi {
+public class _1226_seulgi {
 	public static void main(String[] args) {
 		// 첫째줄에 로또 당첨번호 6개 + 보너스 번호 1개 입력
 		// 둘째줄에 임의 로또번호 6개 입력
